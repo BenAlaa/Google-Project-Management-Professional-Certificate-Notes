@@ -138,3 +138,84 @@ Through a mix of videos, assessments, and hands-on activities, you’ll get intr
     By the end of this course, you will have developed a portfolio of project management artifacts that will demonstrate the skills you have learned throughout the entire program, such as your ability to manage stakeholders and teams, organize plans, and communicate project details. These artifacts can exhibit your career readiness when applying for jobs in the field. To further prepare you to interview for project management jobs, you will reflect on past projects, develop an “elevator pitch,” and anticipate common interview questions. Current Google project managers will continue to instruct and provide you with the strategies, tools, and resources to meet your goals.
 
     After completing this program, you should be equipped to apply for introductory-level jobs as a project manager. You will also have the opportunity to claim a certification of completion badge that will be recognizable to employers.
+
+
+# Table of Content
+- [Course 1: Foundations of Project Management](#c1)
+    - [Week 1: Embarking on a career in project management](#c1-w1)
+        - [Getting started with the program](#c1-w1-getting-started)
+        - [Understanding the basics of project management](#c1-w1-basics-pm)
+        - [Learning about careers in project management](#c1-w1-pm-careers)
+    - [Week 2: Becoming an effective project manager](#c1-w2)
+        - [Exploring how a project manager adds value](#c1-w2-how-pm-add-value)
+        - [Learning more about project manager roles](#c1-w2-pm-roles)
+        - [Acquiring the core skilles of a successful project manager](#c1-w2-core-skills)
+    - [Week 3: The project management life cycle and methodologies](#c1-w3)
+        - [Understanding the project life cycle](#c1-w3-project-life-cycles)
+        - [Analyzing the different project phases](#c1-w3-project-phases)
+        - [Comparing project management life cycle and methodologies and approaches](#c1-w3-pm-methodologies)
+    - [Week 4: Organizational structure and culture](#c1-w4)
+        - [Understanding organizational structure](#c1-w4-org-structure)
+        - [Understannding the impact of organizational culture](#c1-w4-org-culture)
+        - [Understanding change management](#c1-w4-change-management)
+        - [Optional - Pusuing your new career](#c1-w4-new-career)
+- [Course 2: Project Initiation: Starting a Successful Project](#c2)
+- [Course 3: Project Planning: Putting It All Together](#c3)
+- [Course 4: Project Execution: Running the Project](#c4)
+- [Course 5: Agile Project Management](#c5)
+- [Course 3: Capstone: Applying Project Management in the Real World](#c6)
+
+# Course 1: Foundations of Project Management <a id="c1"></a>
+## Week 1: Embarking on a career in project management <a id="c1-w1"></a>
+You will learn how the program is structured, what project management is and what a project manager does, how to apply your skills from previous work experience to project management roles, what types of project management roles you could pursue after completing this certificate, and how to search for those positions.
+
+**Learning Objectives**
+- Relate the skills and responsibilities of a project manager necessary to achieve success on the job.
+- Define project management and describe what constitutes a project.
+- Explain project management roles and responsibilities across a variety of industries.
+- Detail and relate project management skills to project management and its value to business.
+- Determine how this program will help prepare you for a career in project management.
+- Explain the Project Management certificate program structure and course functionality.
+### Getting started with the program <a id="c1-w1-getting-started"></a>
+### Understanding the basics of project management <a id="c1-w1-basics-pm"></a>
+### Learning about careers in project management <a id="c1-w1-pm-careers"></a>
+
+
+## Week 2: Becoming an effective project manager <a id="c1-w2"></a>
+You will learn how project managers add value to organizations and to their teams, what the role and responsibilities of a project manager entail, and what core skills a project manager needs to be successful.
+
+**Learning Objectives**
+- Detail the core skills to be a successful project manager.
+- Describe the role and day-to-day responsibilities of a project manager.
+- Discuss when and why it is necessary to have a project manager.
+
+### Exploring how a project manager adds value <a id="c1-w2-how-pm-add-value"></a>
+### Learning more about project manager roles <a id="c1-w2-pm-roles"></a>
+### Acquiring the core skilles of a successful project manager <a id="c1-w2-core-skills"></a>
+
+## Week 3: The project management life cycle and methodologies <a id="c1-w3"></a>
+You will learn about the phases of the project life cycle, what tasks they involve, and why it is important to complete them. You will also learn about the different project management methodologies and approaches and which is most effective for a given project.
+
+**Learning Objectives**
+- Explain why it is important to understand and follow the life cycle of a project.
+- Define and outline a project’s phases and each phase’s tasks.
+- Compare different program management methodologies and determine which is most effective for a given project.
+
+### Understanding the project life cycle <a id="c1-w3-project-life-cycles"></a>
+### Analyzing the different project phases <a id="c1-w3-project-phases"></a>
+### Comparing project management life cycle and methodologies and approaches <a id="c1-w3-pm-methodologies"></a>
+
+
+## Week 4: Organizational structure and culture <a id="c1-w4"></a>
+You will learn about common organizational structures and how they impact project management, how organizational culture impacts project management, and how a project manager contributes to the change management process. Optionally, you can start to develop your strategy and professional network to help you prepare for your job search.
+
+**Learning Objectives**
+- Define change management and summarize its relationship to the project management role.
+- Define organizational culture and explain how it impacts project management.
+- Identify common types of organizational structures.
+- Define organizational structure and explain how it impacts project management.
+
+### Understanding organizational structure <a id="c1-w4-org-structure"></a>
+### Understannding the impact of organizational culture <a id="c1-w4-org-culture"></a>
+### Understanding change management <a id="c1-w4-change-management"></a>
+### Optional - Pusuing your new career <a id="c1-w4-new-career"></a>
