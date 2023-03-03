@@ -2,6 +2,26 @@
 # Course 1: Foundations of Project Management <a id="c1"></a>
 ![Course 1 Certificate](./Assets/course1/certificate.png)
 You can check the certificate from [here](https://coursera.org/share/688162fa1151071888278a0bb98e6dae)
+
+# Table of Content:
+- [Week 1: Embarking on a career in project management](d#c1-w1)
+    - [Getting started with the program](d#c1-w1-getting-started)
+    - [Understanding the basics of project management](d#c1-w1-basics-pm)
+    - [Learning about careers in project management](d#c1-w1-pm-careers)
+- [Week 2: Becoming an effective project manager](d#c1-w2)
+    - [Exploring how a project manager adds value](d#c1-w2-how-pm-add-value)
+    - [Learning more about project manager roles](d#c1-w2-pm-roles)
+    - [Acquiring the core skilles of a successful project manager](d#c1-w2-core-skills)
+- [Week 3: The project management life cycle and methodologies](d#c1-w3)
+    - [Understanding the project life cycle](d#c1-w3-project-life-cycles)
+    - [Analyzing the different project phases](d#c1-w3-project-phases)
+    - [Comparing project management life cycle and methodologies and approaches](d#c1-w3-pm-methodologies)
+- [Week 4: Organizational structure and culture](d#c1-w4)
+    - [Understanding organizational structure](d#c1-w4-org-structure)
+    - [Understannding the impact of organizational culture](d#c1-w4-org-culture)
+    - [Understanding change management](d#c1-w4-change-management)
+    - [Optional - Pusuing your new career](d#c1-w4-new-career)
+
 ## Week 1: Embarking on a career in project management <a id="c1-w1"></a>
 You will learn how the program is structured, what project management is and what a project manager does, how to apply your skills from previous work experience to project management roles, what types of project management roles you could pursue after completing this certificate, and how to search for those positions.
 
